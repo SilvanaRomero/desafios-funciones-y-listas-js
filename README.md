@@ -8,11 +8,10 @@ Cada carpeta contiene un conjunto de desafíos orientados a poner en práctica c
 ## 📁 Estructura del Proyecto
 
 funciones-y-listas/
-├── desafio01/ # HTML + CSS + JS: interacción con el DOM y eventos
-├── desafio02/ # Funciones básicas y parámetros
-├── desafio03/ # Funciones con cálculos matemáticos
-└── desafio04/ # Manipulación de listas (arrays)
-
+├── desafio01/ # HTML + CSS + JS: DOM y eventos
+├── desafio02/ # Funciones y parámetros
+├── desafio03/ # Cálculos matemáticos
+└── desafio04/ # Listas (arrays)
 
 ---
 
@@ -56,5 +55,6 @@ Curso: *Oracle Next Education - Lógica de Programación*
 Año: 2025
 
 ---
+
 
 
